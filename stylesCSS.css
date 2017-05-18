@@ -1,0 +1,16 @@
+.all {
+    padding: 20px;
+    border-style: groove;
+}
+body {
+    font-family: 'News Cycle', sans-serif;
+}
+
+.gif {
+    text-align: center;
+}
+
+.background-picture.resize {
+    width: 100px;
+    text-align: right;
+}
